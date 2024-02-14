@@ -131,3 +131,31 @@ header{
     margin: 10px 0;
 }
 
+#testimonial{
+    width: 100%;
+    height: 320px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.testimonialContainer{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote .quoteTestimonial{
+    font-size: 36px;
+    font-weight: 100;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.quote .quoteName{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 800;
+}
+
